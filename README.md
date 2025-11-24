@@ -14,8 +14,8 @@ I am especially interested in participating in projects with real-world impact.
 
 ### **Professional Piano Studies — Arturo Soria Conservatory (Madrid) & CMUS (A Coruña)**  
 **2018 – 2024**  
-- Completed the Elementary Degree with **Honors** in Madrid.
-- Studied up to the 3rd year of the Professional Degree.
+- Completed the Elementary Degree with **Honors** in Arturo Soria Conservatory.
+- Studied up to the 3rd year of the Professional Degree in CMUS.
 
 ### **Science Baccalaureate — IES Antares (Madrid) & Hogar Sta. Margarita (A Coruña)**  
 **2021 – 2023**  
@@ -58,13 +58,13 @@ I am especially interested in participating in projects with real-world impact.
 ---
 ## 💼 Experience
 ### **HackUDC**
-I have participated twice in the HackUDC hackathon, where I learned new skills, met different companies and students, and gained experience working in teams under pressure.
+I have participated twice in the HackUDC hackathon (2024 & 2025 editions), where I learned new skills, met different companies and students, and gained experience working in teams under pressure.
 
 ### **Tech Talks**
-I attend technology talks and events like **HumanIA: Intelixencia artificial e transformación do emprego tradicional: retos e oportunidades** whenever possible to keep learning and to stay updated on new concepts, tools, and industry trends.
+- **HumanIA: Intelixencia artificial e transformación do emprego tradicional: retos e oportunidades**
 
 ### **Mentoring**
-I currently volunteer as a mentor at my faculty, helping new students adapt to the university environment and supporting them during their first year.
+I currently volunteer as a mentor FIC(Facultad de Informática Coruña), helping new students adapt to the university environment and supporting them during their first year.
 
 ### **Featured Project — Llama Chama!**
 A small indie game I originally developed a few years ago, where I handled every aspect of the project myself: programming, creating visual assets, and composing the music.  
